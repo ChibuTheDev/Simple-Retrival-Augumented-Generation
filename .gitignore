@@ -1,0 +1,17 @@
+
+__pycache__/
+
+*.pyd
+
+
+.vscode/
+
+
+db/
+chroma.db/
+*.sqlite
+
+
+*.log
+*.cache/
+.cache/
